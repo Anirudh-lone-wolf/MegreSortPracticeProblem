@@ -1,2 +1,2 @@
-# MegreSortPracticeProblem
-code of merge sort practice problem
+# SortingPracticeProblem
+code of sorting practice problem
