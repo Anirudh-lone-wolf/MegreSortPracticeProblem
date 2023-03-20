@@ -1,2 +1,2 @@
 # SortingPracticeProblem
-code of sorting practice problem
+codes for sorting practice problem
